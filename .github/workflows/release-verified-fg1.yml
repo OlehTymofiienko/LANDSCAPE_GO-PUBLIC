@@ -1,0 +1,66 @@
+name: Publish verified LANDSCAPE_GO FG-1 archive
+on:
+  push:
+    branches:
+      - release/verified-asset-2026-11-19
+permissions:
+  contents: write
+jobs:
+  publish:
+    name: Verify 86 files and attach exact SHA-256 archive
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out approved public source, not this workflow branch
+        uses: actions/checkout@v4
+        with:
+          ref: f79abfc204094c7856ae87b7c19432ce4d3846fa
+          persist-credentials: true
+      - name: Verify source and create byte-for-byte approved ZIP
+        shell: bash
+        run: |
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+          import subprocess
+          from zipfile import ZipFile, ZipInfo, ZIP_DEFLATED
+          expected_commit = "f79abfc204094c7856ae87b7c19432ce4d3846fa"
+          expected_tree = "5ec865f4bf1d5eff4bc1e01dc30635f2b942a13f"
+          expected_zip = "b437a14b8d84fa8a53770fefe0a1c9231c907a93baf5c9487c65d7883bc3847e"
+          filename = "LANDSCAPE_GO_PUBLIC_FG1_UK_EN_RU_2026-11-19.zip"
+          def git(*args):
+              return subprocess.check_output(["git", *args], text=True).strip()
+          assert git("rev-parse", "HEAD") == expected_commit
+          assert git("rev-parse", "HEAD^{tree}") == expected_tree
+          filenames = sorted(subprocess.check_output(["git", "ls-files", "-z"]).decode("utf-8").rstrip("\0").split("\0"))
+          assert len(filenames) == 86 and len(set(filenames)) == 86
+          entries = Path("SHA256SUMS.txt").read_text(encoding="ascii").splitlines()
+          assert len(entries) == 85
+          checked = set()
+          for line in entries:
+              digest, name = line.split("  ", 1)
+              assert name != "SHA256SUMS.txt" and name in filenames and name not in checked
+              assert hashlib.sha256(Path(name).read_bytes()).hexdigest() == digest, name
+              checked.add(name)
+          assert checked == set(filenames) - {"SHA256SUMS.txt"}
+          with ZipFile(filename, "w", compression=ZIP_DEFLATED, compresslevel=9) as z:
+              for name in filenames:
+                  info = ZipInfo(name, (2026, 11, 19, 0, 0, 0))
+                  info.create_system = 3
+                  info.external_attr = 0o100644 << 16
+                  info.compress_type = ZIP_DEFLATED
+                  z.writestr(info, Path(name).read_bytes(), compress_type=ZIP_DEFLATED, compresslevel=9)
+          got = hashlib.sha256(Path(filename).read_bytes()).hexdigest()
+          assert got == expected_zip, (got, expected_zip)
+          Path("DOWNLOAD_SHA256.txt").write_text(f"{got}  {filename}\n", encoding="ascii")
+          print("VERIFIED_PUBLIC_RELEASE", len(filenames), got)
+          PY
+      - name: Publish release with approved ZIP and checksums
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          gh release create fg1-2026-11-19 \
+            --target f79abfc204094c7856ae87b7c19432ce4d3846fa \
+            --title "LANDSCAPE_GO FG-1 — 19 November 2026" \
+            --notes-file RELEASE_NOTES.md \
+            LANDSCAPE_GO_PUBLIC_FG1_UK_EN_RU_2026-11-19.zip DOWNLOAD_SHA256.txt
