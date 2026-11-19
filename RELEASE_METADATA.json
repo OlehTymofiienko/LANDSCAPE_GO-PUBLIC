@@ -1,0 +1,42 @@
+{
+  "actually_published_on_github_by_this_builder": false,
+  "approved_for_publication_by_owner": true,
+  "copyright_and_existing_license": "unchanged official PolyForm Strict 1.0.0 + supplementary unmodified sharing permission",
+  "edition": "experimental v4; not a v4.0.0 release tag",
+  "formal_legal_review": "owner_reports_completed; independent legal report not inspected here",
+  "global_minimax_unproved_sizes": "unknown, not V=0",
+  "historic_mit_grants_revoked": false,
+  "original_game_data_json": 45,
+  "original_lic03_source_zip_sha256": "6bd2080008a39221448b4c8cb2e7f547f2b9f488d45e892997dbed3005604535",
+  "original_private_repo_must_remain_private": true,
+  "paper_print_19x19": "owner_reports_approved; prior A4 browser PDF check PASS on Windows/Ubuntu",
+  "print_html_scientific_table_integrity": [
+    {
+      "all_tables_byte_identical": true,
+      "count": 37,
+      "path": "ATLAS/PRINT/PRINT_PREVIEW_37_LANDSCAPES.html",
+      "public_sha256": "0dc308ab2ef0c91f84aa4cbb84a1c1b150f42410747158da6d439906904d98d8",
+      "source_sha256": "0dc308ab2ef0c91f84aa4cbb84a1c1b150f42410747158da6d439906904d98d8",
+      "total_cells": 4971
+    },
+    {
+      "all_tables_byte_identical": true,
+      "count": 18,
+      "path": "ATLAS/SIGNED_MONO/PRINT_PREVIEW_A4.html",
+      "public_sha256": "ae31ff8cea28185a77b9e3a4058ba7662ee6cc6fd0d074912e3d026bd0977232",
+      "source_sha256": "ffc62c5901314d56eea0dc96f7ca778acf45e0da9261c9abd207c6d1c5fd8df4",
+      "total_cells": 2826
+    }
+  ],
+  "project": "LANDSCAPE_GO",
+  "release_name": "FG-1 clean-history public edition, 2026-11-19",
+  "scientific_atlas_cells": 7797,
+  "scientific_atlas_tables": 55,
+  "source_files_not_included": [
+    "private Git history",
+    "historical research ZIP/GZIP archives",
+    "local SQLite index"
+  ],
+  "target_new_public_repo": "OlehTymofiienko/LANDSCAPE_GO-PUBLIC",
+  "translation_note": "Original FG-1 full rules are Russian; complete Ukrainian translation is provided with formulas preserved"
+}

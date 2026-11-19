@@ -1,0 +1,4580 @@
+{
+  "note": "НЕ является оригинальным каталогом 3132. Ранее сгенерированные или дополнительные карты; математический баланс не подтверждён.",
+  "sources": [
+    {
+      "id": "NEW3_001",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -1,
+          5
+        ],
+        [
+          -4,
+          -1,
+          5
+        ],
+        [
+          -4,
+          2,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_002",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -4
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_003",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          2
+        ],
+        [
+          -1,
+          0,
+          4
+        ],
+        [
+          0,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_004",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          -1,
+          -4
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_005",
+      "family": "procedural",
+      "matrix": [
+        [
+          -1,
+          -4,
+          2
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          2,
+          -4,
+          2
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_006",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          2
+        ],
+        [
+          -3,
+          0,
+          5
+        ],
+        [
+          -1,
+          4,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_007",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          2,
+          -1
+        ],
+        [
+          0,
+          0,
+          2
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_008",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -3,
+          0
+        ],
+        [
+          4,
+          0,
+          5
+        ],
+        [
+          0,
+          -1,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_009",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          2,
+          4
+        ],
+        [
+          -3,
+          -1,
+          5
+        ],
+        [
+          -4,
+          2,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_010",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -4
+        ],
+        [
+          2,
+          -1,
+          0
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_011",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          0
+        ],
+        [
+          -3,
+          -1,
+          4
+        ],
+        [
+          -1,
+          4,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_012",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          -1,
+          -4
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_013",
+      "family": "procedural",
+      "matrix": [
+        [
+          2,
+          -4,
+          0
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          2,
+          -4,
+          -1
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_014",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          -1,
+          -3
+        ],
+        [
+          2,
+          0,
+          -1
+        ],
+        [
+          4,
+          4,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_015",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          2,
+          0
+        ],
+        [
+          5,
+          0,
+          -4
+        ],
+        [
+          -3,
+          2,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_016",
+      "family": "procedural",
+      "matrix": [
+        [
+          -1,
+          -3,
+          0
+        ],
+        [
+          2,
+          0,
+          5
+        ],
+        [
+          -1,
+          -1,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_017",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -1,
+          5
+        ],
+        [
+          -3,
+          0,
+          5
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_018",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -3
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_019",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          0
+        ],
+        [
+          -1,
+          0,
+          2
+        ],
+        [
+          0,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_020",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          0,
+          -4
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          -4,
+          -1,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_021",
+      "family": "procedural",
+      "matrix": [
+        [
+          -1,
+          -4,
+          2
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          2,
+          -4,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_022",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          4
+        ],
+        [
+          -4,
+          2,
+          5
+        ],
+        [
+          -3,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_023",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          2,
+          -3
+        ],
+        [
+          -4,
+          0,
+          5
+        ],
+        [
+          4,
+          -1,
+          -3
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_024",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -4,
+          -1
+        ],
+        [
+          5,
+          2,
+          5
+        ],
+        [
+          4,
+          0,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_025",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          0,
+          5
+        ],
+        [
+          -4,
+          2,
+          5
+        ],
+        [
+          -4,
+          2,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_026",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -3
+        ],
+        [
+          -1,
+          2,
+          2
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_027",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -1,
+          0
+        ],
+        [
+          0,
+          -1,
+          2
+        ],
+        [
+          2,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_028",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          2,
+          -4
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -4,
+          2,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_029",
+      "family": "procedural",
+      "matrix": [
+        [
+          -1,
+          -4,
+          0
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          0,
+          -4,
+          -1
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_030",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          -1,
+          -4
+        ],
+        [
+          5,
+          2,
+          -3
+        ],
+        [
+          5,
+          4,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_031",
+      "family": "procedural",
+      "matrix": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          4,
+          0,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_032",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -1
+        ],
+        [
+          0,
+          0,
+          5
+        ],
+        [
+          -1,
+          -1,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_033",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          0,
+          4
+        ],
+        [
+          -3,
+          2,
+          5
+        ],
+        [
+          -4,
+          2,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_034",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -4,
+          -4
+        ],
+        [
+          2,
+          0,
+          0
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_035",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -1,
+          0
+        ],
+        [
+          -3,
+          0,
+          0
+        ],
+        [
+          2,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_036",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          0,
+          -4
+        ],
+        [
+          2,
+          0,
+          2
+        ],
+        [
+          -4,
+          2,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_037",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          -4,
+          -1
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          0,
+          -4,
+          -1
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_038",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          2
+        ],
+        [
+          -3,
+          0,
+          5
+        ],
+        [
+          -1,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_039",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          0,
+          2
+        ],
+        [
+          5,
+          2,
+          -1
+        ],
+        [
+          -3,
+          -1,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_040",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          4,
+          0,
+          4
+        ],
+        [
+          2,
+          -4,
+          2
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_041",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -1,
+          5
+        ],
+        [
+          -4,
+          2,
+          5
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_042",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -4,
+          -4
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_043",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          0
+        ],
+        [
+          -3,
+          -1,
+          5
+        ],
+        [
+          0,
+          4,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_044",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          0,
+          -4
+        ],
+        [
+          2,
+          -1,
+          2
+        ],
+        [
+          -4,
+          -1,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_045",
+      "family": "procedural",
+      "matrix": [
+        [
+          2,
+          -4,
+          0
+        ],
+        [
+          5,
+          2,
+          5
+        ],
+        [
+          -1,
+          -4,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_046",
+      "family": "procedural",
+      "matrix": [
+        [
+          4,
+          -1,
+          -4
+        ],
+        [
+          5,
+          0,
+          -3
+        ],
+        [
+          5,
+          4,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_047",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          -1,
+          -3
+        ],
+        [
+          -3,
+          0,
+          5
+        ],
+        [
+          4,
+          2,
+          -4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_048",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -4,
+          2
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          0,
+          -1,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_049",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          0,
+          5
+        ],
+        [
+          -4,
+          0,
+          5
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_050",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -4
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          5,
+          4,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_051",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          0
+        ],
+        [
+          -1,
+          0,
+          4
+        ],
+        [
+          0,
+          4,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_052",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          2,
+          -4
+        ],
+        [
+          2,
+          -1,
+          0
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_053",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          -4,
+          0
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          0,
+          -4,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_054",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          5
+        ],
+        [
+          -4,
+          2,
+          5
+        ],
+        [
+          -1,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_055",
+      "family": "procedural",
+      "matrix": [
+        [
+          2,
+          2,
+          -1
+        ],
+        [
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_056",
+      "family": "procedural",
+      "matrix": [
+        [
+          -1,
+          -3,
+          4
+        ],
+        [
+          4,
+          -1,
+          5
+        ],
+        [
+          -3,
+          -3,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_057",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          2,
+          5
+        ],
+        [
+          -3,
+          -1,
+          5
+        ],
+        [
+          -4,
+          -1,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_058",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -4
+        ],
+        [
+          0,
+          0,
+          2
+        ],
+        [
+          4,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_059",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -1,
+          -1
+        ],
+        [
+          -3,
+          0,
+          5
+        ],
+        [
+          2,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_060",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          0,
+          -4
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          -4,
+          2,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_061",
+      "family": "procedural",
+      "matrix": [
+        [
+          2,
+          -4,
+          0
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          2,
+          -4,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_062",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          -3,
+          -4
+        ],
+        [
+          5,
+          2,
+          -4
+        ],
+        [
+          5,
+          5,
+          -3
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_063",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          2,
+          4
+        ],
+        [
+          4,
+          0,
+          -4
+        ],
+        [
+          -1,
+          0,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_064",
+      "family": "procedural",
+      "matrix": [
+        [
+          -1,
+          -4,
+          -1
+        ],
+        [
+          4,
+          2,
+          4
+        ],
+        [
+          2,
+          -3,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_066",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -3,
+          -4
+        ],
+        [
+          -1,
+          2,
+          0
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_067",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          -1
+        ],
+        [
+          0,
+          -1,
+          2
+        ],
+        [
+          -1,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_068",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          2,
+          -4
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          -4,
+          -1,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_069",
+      "family": "procedural",
+      "matrix": [
+        [
+          2,
+          -4,
+          0
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          0,
+          -4,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_070",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          2
+        ],
+        [
+          -4,
+          -1,
+          4
+        ],
+        [
+          -3,
+          4,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_071",
+      "family": "procedural",
+      "matrix": [
+        [
+          4,
+          -1,
+          -3
+        ],
+        [
+          -4,
+          0,
+          5
+        ],
+        [
+          5,
+          2,
+          -1
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_072",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -4,
+          2
+        ],
+        [
+          4,
+          0,
+          5
+        ],
+        [
+          -1,
+          -3,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_073",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -1,
+          5
+        ],
+        [
+          -4,
+          -1,
+          5
+        ],
+        [
+          -3,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_074",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -4
+        ],
+        [
+          -1,
+          2,
+          0
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_075",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          0
+        ],
+        [
+          -1,
+          2,
+          2
+        ],
+        [
+          -1,
+          4,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_076",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          -1,
+          -4
+        ],
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          -4,
+          -1,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_077",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          -4,
+          -1
+        ],
+        [
+          5,
+          -1,
+          5
+        ],
+        [
+          -1,
+          -4,
+          -1
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_078",
+      "family": "procedural",
+      "matrix": [
+        [
+          2,
+          -1,
+          -4
+        ],
+        [
+          5,
+          -1,
+          -3
+        ],
+        [
+          5,
+          4,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_079",
+      "family": "procedural",
+      "matrix": [
+        [
+          4,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          2
+        ],
+        [
+          -1,
+          2,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_080",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          0
+        ],
+        [
+          4,
+          2,
+          5
+        ],
+        [
+          0,
+          -3,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_081",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -1,
+          5
+        ],
+        [
+          -4,
+          -1,
+          5
+        ],
+        [
+          -3,
+          2,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_082",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -4
+        ],
+        [
+          0,
+          2,
+          -1
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_083",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -1,
+          2
+        ],
+        [
+          -1,
+          0,
+          5
+        ],
+        [
+          0,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_084",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          2,
+          -4
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -4,
+          2,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_085",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          -4,
+          2
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          0,
+          -4,
+          -1
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_086",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -1,
+          5
+        ],
+        [
+          -3,
+          0,
+          4
+        ],
+        [
+          -1,
+          4,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_087",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          0,
+          2
+        ],
+        [
+          4,
+          0,
+          -1
+        ],
+        [
+          -1,
+          2,
+          2
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_088",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -3
+        ],
+        [
+          2,
+          0,
+          5
+        ],
+        [
+          2,
+          -3,
+          2
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_089",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          2,
+          5
+        ],
+        [
+          -4,
+          0,
+          5
+        ],
+        [
+          -3,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_090",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -4,
+          -4
+        ],
+        [
+          -1,
+          -1,
+          -1
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_091",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          2
+        ],
+        [
+          -3,
+          0,
+          0
+        ],
+        [
+          2,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_092",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          -1,
+          -4
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_093",
+      "family": "procedural",
+      "matrix": [
+        [
+          2,
+          -4,
+          0
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          -1,
+          -4,
+          -1
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_094",
+      "family": "procedural",
+      "matrix": [
+        [
+          4,
+          -1,
+          -4
+        ],
+        [
+          5,
+          2,
+          -4
+        ],
+        [
+          5,
+          0,
+          -3
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_095",
+      "family": "procedural",
+      "matrix": [
+        [
+          2,
+          -1,
+          -1
+        ],
+        [
+          -4,
+          2,
+          5
+        ],
+        [
+          4,
+          -1,
+          -3
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_096",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -3
+        ],
+        [
+          2,
+          0,
+          4
+        ],
+        [
+          4,
+          -1,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_097",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -1,
+          5
+        ],
+        [
+          -4,
+          -1,
+          5
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_098",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -4
+        ],
+        [
+          2,
+          -1,
+          -1
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_099",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          0
+        ],
+        [
+          -3,
+          2,
+          4
+        ],
+        [
+          0,
+          4,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_100",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          0,
+          -4
+        ],
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_101",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          -4,
+          0
+        ],
+        [
+          5,
+          -1,
+          5
+        ],
+        [
+          -1,
+          -4,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_102",
+      "family": "procedural",
+      "matrix": [
+        [
+          -1,
+          -1,
+          -4
+        ],
+        [
+          4,
+          0,
+          -1
+        ],
+        [
+          5,
+          2,
+          -1
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_103",
+      "family": "procedural",
+      "matrix": [
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          -1,
+          2,
+          2
+        ],
+        [
+          0,
+          0,
+          2
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_104",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -3,
+          2
+        ],
+        [
+          4,
+          0,
+          4
+        ],
+        [
+          -3,
+          -1,
+          2
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_105",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          0,
+          5
+        ],
+        [
+          -4,
+          2,
+          5
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_106",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -3
+        ],
+        [
+          2,
+          0,
+          0
+        ],
+        [
+          5,
+          5,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_107",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -1,
+          0
+        ],
+        [
+          -3,
+          -1,
+          4
+        ],
+        [
+          0,
+          4,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_108",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          0,
+          -4
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_109",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          -4,
+          0
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          2,
+          -4,
+          2
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_110",
+      "family": "procedural",
+      "matrix": [
+        [
+          4,
+          0,
+          -4
+        ],
+        [
+          4,
+          0,
+          -4
+        ],
+        [
+          5,
+          2,
+          -1
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_111",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -1,
+          2
+        ],
+        [
+          4,
+          2,
+          -4
+        ],
+        [
+          -3,
+          2,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_112",
+      "family": "procedural",
+      "matrix": [
+        [
+          -1,
+          -4,
+          0
+        ],
+        [
+          4,
+          0,
+          5
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_114",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -4
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          5,
+          5,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_115",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -1,
+          2
+        ],
+        [
+          -1,
+          0,
+          2
+        ],
+        [
+          -1,
+          4,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_116",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          -1,
+          -4
+        ],
+        [
+          2,
+          0,
+          2
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_117",
+      "family": "procedural",
+      "matrix": [
+        [
+          -1,
+          -4,
+          0
+        ],
+        [
+          5,
+          2,
+          5
+        ],
+        [
+          0,
+          -4,
+          -1
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_118",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          -3,
+          -1
+        ],
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          4,
+          2,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_119",
+      "family": "procedural",
+      "matrix": [
+        [
+          4,
+          2,
+          -4
+        ],
+        [
+          -4,
+          0,
+          5
+        ],
+        [
+          4,
+          -1,
+          -4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_120",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          -4,
+          0
+        ],
+        [
+          2,
+          2,
+          4
+        ],
+        [
+          0,
+          -3,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_121",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -1,
+          5
+        ],
+        [
+          -4,
+          0,
+          5
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_122",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -4
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_123",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -1,
+          0
+        ],
+        [
+          -1,
+          -1,
+          2
+        ],
+        [
+          -1,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_124",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          0,
+          -4
+        ],
+        [
+          2,
+          0,
+          0
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_125",
+      "family": "procedural",
+      "matrix": [
+        [
+          2,
+          -4,
+          -1
+        ],
+        [
+          5,
+          -1,
+          5
+        ],
+        [
+          2,
+          -4,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_126",
+      "family": "procedural",
+      "matrix": [
+        [
+          2,
+          -3,
+          -4
+        ],
+        [
+          5,
+          -1,
+          -4
+        ],
+        [
+          5,
+          4,
+          -1
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_127",
+      "family": "procedural",
+      "matrix": [
+        [
+          2,
+          -1,
+          0
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          4,
+          0,
+          -1
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_128",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          2
+        ],
+        [
+          2,
+          -1,
+          5
+        ],
+        [
+          -1,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_129",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          0,
+          5
+        ],
+        [
+          -3,
+          -1,
+          5
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_130",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -4,
+          -4
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          5,
+          5,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_131",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          0,
+          2
+        ],
+        [
+          -3,
+          -1,
+          2
+        ],
+        [
+          0,
+          4,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_132",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          0,
+          -4
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_133",
+      "family": "procedural",
+      "matrix": [
+        [
+          2,
+          -4,
+          -1
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          0,
+          -4,
+          2
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_134",
+      "family": "procedural",
+      "matrix": [
+        [
+          2,
+          -1,
+          -4
+        ],
+        [
+          0,
+          -1,
+          -1
+        ],
+        [
+          4,
+          4,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_135",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          2,
+          -4
+        ],
+        [
+          -3,
+          2,
+          5
+        ],
+        [
+          5,
+          0,
+          -4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_136",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          0
+        ],
+        [
+          4,
+          0,
+          5
+        ],
+        [
+          2,
+          -1,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_138",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -4,
+          -4
+        ],
+        [
+          2,
+          0,
+          2
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_139",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          0
+        ],
+        [
+          0,
+          2,
+          4
+        ],
+        [
+          2,
+          4,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_140",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          -1,
+          -4
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_141",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          -4,
+          0
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          2,
+          -4,
+          -1
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_142",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          -1,
+          -4
+        ],
+        [
+          5,
+          -1,
+          -4
+        ],
+        [
+          5,
+          2,
+          -3
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_143",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          2,
+          -1
+        ],
+        [
+          -1,
+          0,
+          2
+        ],
+        [
+          0,
+          0,
+          -1
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_144",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -4,
+          -1
+        ],
+        [
+          0,
+          -1,
+          5
+        ],
+        [
+          4,
+          -3,
+          2
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_145",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -1,
+          5
+        ],
+        [
+          -4,
+          -1,
+          4
+        ],
+        [
+          -3,
+          2,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_146",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          -4
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_147",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          2
+        ],
+        [
+          -1,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_148",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          -1,
+          -4
+        ],
+        [
+          -1,
+          2,
+          2
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_149",
+      "family": "procedural",
+      "matrix": [
+        [
+          -1,
+          -4,
+          -1
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          -1,
+          -4,
+          2
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_150",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          -3,
+          -4
+        ],
+        [
+          4,
+          0,
+          0
+        ],
+        [
+          5,
+          2,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_151",
+      "family": "procedural",
+      "matrix": [
+        [
+          -1,
+          0,
+          5
+        ],
+        [
+          4,
+          -1,
+          -4
+        ],
+        [
+          -4,
+          2,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_152",
+      "family": "procedural",
+      "matrix": [
+        [
+          -1,
+          -4,
+          -3
+        ],
+        [
+          5,
+          2,
+          5
+        ],
+        [
+          4,
+          0,
+          4
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_153",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          2,
+          4
+        ],
+        [
+          -4,
+          2,
+          5
+        ],
+        [
+          -4,
+          -1,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_154",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -4,
+          -4
+        ],
+        [
+          -1,
+          2,
+          -1
+        ],
+        [
+          4,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_155",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -1,
+          0
+        ],
+        [
+          -3,
+          0,
+          2
+        ],
+        [
+          2,
+          4,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_156",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          0,
+          -4
+        ],
+        [
+          0,
+          0,
+          2
+        ],
+        [
+          -4,
+          2,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_157",
+      "family": "procedural",
+      "matrix": [
+        [
+          2,
+          -4,
+          0
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          -1,
+          -4,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_158",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          2
+        ],
+        [
+          -3,
+          2,
+          5
+        ],
+        [
+          -3,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_159",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          0,
+          -3
+        ],
+        [
+          -4,
+          0,
+          5
+        ],
+        [
+          0,
+          -1,
+          -1
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_160",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          0
+        ],
+        [
+          0,
+          2,
+          5
+        ],
+        [
+          -3,
+          -3,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_162",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -3,
+          -4
+        ],
+        [
+          0,
+          2,
+          0
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_163",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          2
+        ],
+        [
+          -4,
+          0,
+          2
+        ],
+        [
+          -1,
+          2,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_164",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          2,
+          -4
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_165",
+      "family": "procedural",
+      "matrix": [
+        [
+          2,
+          -4,
+          0
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          0,
+          -4,
+          2
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_166",
+      "family": "procedural",
+      "matrix": [
+        [
+          -1,
+          -3,
+          -1
+        ],
+        [
+          4,
+          2,
+          -1
+        ],
+        [
+          4,
+          4,
+          -1
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_167",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          2,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          2
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_168",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -3,
+          0
+        ],
+        [
+          2,
+          -1,
+          5
+        ],
+        [
+          2,
+          -1,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_169",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          2,
+          5
+        ],
+        [
+          -3,
+          0,
+          5
+        ],
+        [
+          -4,
+          2,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_170",
+      "family": "procedural",
+      "matrix": [
+        [
+          -3,
+          -4,
+          -4
+        ],
+        [
+          0,
+          2,
+          0
+        ],
+        [
+          5,
+          5,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_171",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -1
+        ],
+        [
+          -1,
+          0,
+          5
+        ],
+        [
+          2,
+          2,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_172",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          0,
+          -4
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_173",
+      "family": "procedural",
+      "matrix": [
+        [
+          -1,
+          -4,
+          2
+        ],
+        [
+          5,
+          -1,
+          5
+        ],
+        [
+          2,
+          -4,
+          2
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_174",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          2
+        ],
+        [
+          -4,
+          2,
+          5
+        ],
+        [
+          -1,
+          2,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_175",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          -1,
+          4
+        ],
+        [
+          4,
+          0,
+          -3
+        ],
+        [
+          -3,
+          -1,
+          2
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_176",
+      "family": "procedural",
+      "matrix": [
+        [
+          -1,
+          -4,
+          -1
+        ],
+        [
+          4,
+          0,
+          5
+        ],
+        [
+          2,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_177",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -1,
+          4
+        ],
+        [
+          -3,
+          2,
+          5
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_178",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -3
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          5,
+          4,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_179",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -3,
+          -1
+        ],
+        [
+          -1,
+          0,
+          4
+        ],
+        [
+          0,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_181",
+      "family": "procedural",
+      "matrix": [
+        [
+          2,
+          -4,
+          2
+        ],
+        [
+          5,
+          0,
+          5
+        ],
+        [
+          0,
+          -4,
+          2
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_182",
+      "family": "procedural",
+      "matrix": [
+        [
+          -1,
+          -3,
+          -3
+        ],
+        [
+          4,
+          2,
+          -1
+        ],
+        [
+          4,
+          2,
+          0
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_183",
+      "family": "procedural",
+      "matrix": [
+        [
+          4,
+          2,
+          -1
+        ],
+        [
+          -4,
+          0,
+          5
+        ],
+        [
+          5,
+          0,
+          -3
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_184",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          -1
+        ],
+        [
+          4,
+          -1,
+          5
+        ],
+        [
+          -1,
+          -1,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_185",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          2,
+          5
+        ],
+        [
+          -3,
+          -1,
+          5
+        ],
+        [
+          -4,
+          -1,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_187",
+      "family": "procedural",
+      "matrix": [
+        [
+          -4,
+          -4,
+          2
+        ],
+        [
+          -1,
+          -1,
+          0
+        ],
+        [
+          0,
+          2,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_188",
+      "family": "procedural",
+      "matrix": [
+        [
+          5,
+          -1,
+          -4
+        ],
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          -4,
+          0,
+          5
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    },
+    {
+      "id": "NEW3_189",
+      "family": "procedural",
+      "matrix": [
+        [
+          0,
+          -4,
+          0
+        ],
+        [
+          5,
+          2,
+          5
+        ],
+        [
+          -1,
+          -4,
+          2
+        ]
+      ],
+      "provenance": "new_procedural_unvalidated",
+      "source_file": "generated_by_build_data.py",
+      "exact_minimax_pair_proven": false,
+      "duplicate_values_of_another_entry": false
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# LANDSCAPE_GO — Research data and documentation
+
+Copyright © 2026 OlehTymofiienko, to the extent of rights held by the owner.
+
+For new distributions, original protectable catalog compilations, database contents, documentation, figures and scientific texts owned by the rights holder are reserved except for the limited permission below or a separate written agreement. Personal noncommercial study, inspection and use of these materials as supplied with LANDSCAPE_GO is permitted; copies, extraction, adaptation or redistribution outside that permission, or commercial exploitation of protected materials, require separate written permission where applicable law gives the owner exclusive rights. No additional software permission is granted; software is governed by [LICENSE](LICENSE).
+
+This policy does not restrict independently obtained facts, mathematical formulas, theorems, ideas, independent implementations, statutory exceptions, or material not protected by applicable law. Database rights apply only where legally available. It does not override third-party terms or pre-existing valid licenses. Historical research ZIPs, commits, tags and their embedded notices remain unchanged for reproducibility; do not distribute them as newly relicensed packages. Before external distribution, audit provenance and issue a new package with correct notices and checksums. Commercial requests: [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md).
